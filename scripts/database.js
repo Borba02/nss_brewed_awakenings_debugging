@@ -128,6 +128,8 @@ const database = {
         id: 16, productId: 4, employeeId: 7, timestamp: 1612638112396
     }, {
         id: 17, productId: 4, employeeId: 10, timestamp: 1612638112396
+    }, {
+        id: 18, productId: 3, employeeId: 2, timestamp: 1612638112396
     }]
 }
 
